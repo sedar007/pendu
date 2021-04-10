@@ -6,7 +6,7 @@ from liste import *
 import os
 import pickle
 
-'''
+
 liste_mots =[
     "armoire",
     "boucle",
@@ -28,10 +28,4 @@ liste_mots =[
     "taxi",
     "vampire",
     "volant",
-]'''
-
-liste_mots=[
-    "paul",
-    "jack",
-    "ad"
 ]
